@@ -11,8 +11,8 @@
   Written by Limor Fried/Ladyada for Adafruit Industries.  
   BSD license, all text above must be included in any redistribution
  ****************************************************/
-#ifndef ADAFRUIT_VS1053_H
-#define ADAFRUIT_VS1053_H
+#ifndef ADAFRUIT_VS1053_SDFAT_H
+#define ADAFRUIT_VS1053_SDFAT_H
 
 #if (ARDUINO >= 100)
  #include <Arduino.h>
