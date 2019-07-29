@@ -1,7 +1,7 @@
-  (perlix): just a tiny change: use SdFat library instead of SD (long filename suport).
+  ([perlix]: just a tiny change: use SdFat library instead of SD (long filename support).
   
   I prefer this Adafruit library for my VS1053B projects because it has functions for 
-  uploading a plugin and for the chip's 8 GPIO pins.
+  uploading a plugin and for the chip's 8 GPIO pins. [/perlix]
   
   This is a library for the Adafruit VS1053 Codec Breakout
 
